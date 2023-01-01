@@ -1,0 +1,4 @@
+1.1 Escreva um programa que leia o no. de alunos e alunas de uma sala
+1.2 Repita o programa, mas pergunte e responda sobre as alunas primeiro
+1.3 Escreva um programa que apresente a tabuada do 3
+1.4 Escreva um programa que auxilie o ministério da saúde nas informações sobre a dengue. Esse programa deve receber os dados sobre o número de casos suspeitos, o no. de casos confirmados e o número de mortes
